@@ -1,0 +1,54 @@
+group 'rlit.us'
+version '1.0-SNAPSHOT'
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '3.3'
+    distributionUrl = "https://services.gradle.org/distributions/gradle-$gradleVersion-all.zip"
+}
+
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'org.springframework.boot'
+
+buildscript {
+    dependencies {
+        classpath group: 'org.springframework.boot', name: 'spring-boot-gradle-plugin', version: '1.5.2.RELEASE'
+        classpath 'org.springframework:springloaded:1.2.6.RELEASE'
+    }
+    repositories {
+        mavenLocal()
+        mavenCentral()
+    }
+}
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+
+
+dependencies {
+
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '1.5.1.RELEASE'
+    // Redis
+    //compile group: 'org.springframework.data', name: 'spring-data-redis', version: '1.8.4.RELEASE'
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-data-redis', version: '1.5.4.RELEASE'
+
+
+    // Injection annotations
+    //compile group: 'javax.enterprise', name: 'cdi-api', version: '2.0'
+
+
+    // Dev tools
+    //compile group: 'org.springframework.boot', name: 'spring-boot-devtools', version: '1.5.2.RELEASE'
+
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: 'org.springframework.boot', name: 'spring-boot-starter-test', version: '1.4.2.RELEASE'
+}
+
+bootRepackage {
+    mainClass = 'user.Application'
+}

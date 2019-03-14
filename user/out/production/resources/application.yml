@@ -1,0 +1,17 @@
+spring:
+  profiles:
+    active: default
+---
+
+server:
+  port: 8999
+  session.timeout: 30
+
+---
+
+logging:
+  level:
+    org.springframework: ERROR, INFO
+
+
+#  file: logs/redis.log

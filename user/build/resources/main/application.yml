@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: default
+
+---
+
+logging:
+  level:
+    org.springframework: ERROR
+
+
+#  file: logs/redis.log

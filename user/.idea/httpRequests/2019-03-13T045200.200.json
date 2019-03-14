@@ -1,0 +1,44 @@
+[
+  {
+    "id": 77,
+    "firstName": "User107",
+    "lastName": "User107",
+    "email": "update@user.com",
+    "role": "USER"
+  },
+  {
+    "id": 4,
+    "firstName": "Gareth",
+    "lastName": "Houston",
+    "email": "gar@gar.com",
+    "role": "USER"
+  },
+  {
+    "id": 44,
+    "firstName": "John Doe",
+    "lastName": "Doe",
+    "email": "jdoh@dohhead.com",
+    "role": "USER"
+  },
+  {
+    "id": 32,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "jdoh@dohhead.com",
+    "role": "USER"
+  },
+  {
+    "id": 12,
+    "firstName": "Rob",
+    "lastName": "Litvin",
+    "email": "robLitvin@me.comm",
+    "role": "USER"
+  },
+  {
+    "id": 107,
+    "firstName": "Charlie",
+    "lastName": "User107",
+    "email": "update@user.com",
+    "role": "USER"
+  }
+]

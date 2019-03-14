@@ -1,0 +1,5 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅòŸˆ8Ëì¢Ë—-
+xsquid:S00116"YRename this field "UserRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…°«±8Ëì¢Ë—-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Åœ¦ûÿÿÿÿ8Ëì¢Ë—-
