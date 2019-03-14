@@ -25,7 +25,8 @@
     "core-js": "^2.4.1",
     "rxjs": "^5.5.2",
     "zone.js": "^0.8.14",
-    "cryptiles": ">=4.1.2"
+    "cryptiles": ">=4.1.2",
+    "hoek": ">=4.2.1"
   },
   "devDependencies": {
     "@angular/cli": "^1.6.3",

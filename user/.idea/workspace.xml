@@ -1,56 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7899940-da72-4cfa-83be-aa12c43407c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../app/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../app/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/e2e/tsconfig.e2e.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/app/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/app/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/polyfills.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/tsconfig.app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/tsconfig.spec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6aceba3b67ef5139f25014237b103e4339516702" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8024370e37cc620d6bb23f657ca526ba1ddcc02" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/portal/config/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/portal/controllers/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/portal/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/user/portal/controllers/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/user/portal/controllers/UserControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/user/portal/repo/UserQueryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/user/portal/repo/UserQueryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/user/portal/repo/UserRepositoryIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/user/portal/repo/UserRepositoryIntegrationTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b7899940-da72-4cfa-83be-aa12c43407c3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -782,7 +733,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21547000" />
+    <option name="totallyTimeSpent" value="21806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="145" y="53" width="1520" height="1027" extended-state="0" />
