@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
-      <module name="rlit.us.user.main" target="1.8" />
-      <module name="rlit.us.user.test" target="1.8" />
+      <module name="rlit.us.api.user.main" target="1.8" />
+      <module name="rlit.us.api.user.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

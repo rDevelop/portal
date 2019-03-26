@@ -1,0 +1,18 @@
+spring:
+  profiles:
+    active: default
+
+---
+
+server:
+  port: 9100
+  session.timeout: 30
+
+---
+
+logging:
+  level:
+    org.springframework: ERROR, INFO
+
+
+#  file: logs/redis.log

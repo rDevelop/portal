@@ -1,0 +1,21 @@
+<div class="col-md-6">
+  <h2 class="text-center">Add Trade</h2>
+<form>
+  <div class="form-group">
+    <label for="symbol">Symbol:</label>
+    <input [(ngModel)]="trade.symbol" placeholder="Symbol" name="symbol" class="form-control" id="symbol">
+  </div>
+
+  <div class="form-group">
+    <label for="quantity">Quantity:</label>
+    <input [(ngModel)]="trade.quantity" placeholder="Quantity" name="quantity" class="form-control" id="quantity">
+  </div>
+
+  <div class="form-group">
+    <label for="price">Price:</label>
+    <input [(ngModel)]="trade.price" placeholder="Price" name="price" class="form-control" id="price">
+  </div>
+
+  <button class="btn btn-success" (click)="createTrade()">Add</button>
+</form>
+</div>

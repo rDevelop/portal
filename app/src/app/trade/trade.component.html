@@ -1,0 +1,24 @@
+<div class="col-md-6">
+<h2> Trade Details</h2>
+
+<table class="table table-striped">
+  <thead>
+  <tr>
+    <th class="hidden">Id</th>
+    <th>Symbol</th>
+    <th>Quantity</th>
+    <th>Price</th>
+    <th>Action</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let trade of trades">
+    <td class="hidden">{{trade.id}}</td>
+    <td>{{trade.symbol}}</td>
+    <td>{{trade.quantity}}</td>
+    <td>{{trade.price}}</td>
+    <td><button class="btn btn-danger" (click)="deleteTrade(trade)"> Delete Trade</button></td>
+  </tr>
+  </tbody>
+</table>
+</div>

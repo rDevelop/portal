@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7899940-da72-4cfa-83be-aa12c43407c3" name="Default Changelist" comment="" />
+    <list default="true" id="b7899940-da72-4cfa-83be-aa12c43407c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/app/app.routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/app/app.routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/app/models/user.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/app/models/user.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/app/user/add-user.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/app/user/add-user.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/app/user/user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/app/user/user.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/Receiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/config/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/controllers/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/model/Trade$Side.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/model/Trade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/model/User$UserRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/model/UserCopy$UserRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/model/UserCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/model/UserOld$Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/model/UserOld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/repo/ExceptionHandlerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/repo/UserPortalApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/repo/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/repo/UserRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/repo/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/user/portal/repo/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/META-INF/rlit.us.user.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/user/portal/controllers/MvcControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/user/portal/controllers/UserControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/user/portal/repo/UserQueryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/user/portal/repo/UserRepositoryIntegrationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/Receiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/Receiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/users/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/model/Trade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/users/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/model/UserCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/model/UserOld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/repo/ExceptionHandlerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/users/controllers/ExceptionHandlerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserPortalApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/users/repo/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/users/repo/UserRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/users/model/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/portal/repo/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/api/users/model/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/user/portal/controllers/MvcControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/user/controllers/MvcControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/user/portal/controllers/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/user/controllers/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/user/portal/repo/UserQueryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/user/repo/UserQueryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/user/portal/repo/UserRepositoryIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/user/repo/UserRepositoryIntegrationTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -43,54 +99,51 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/user/Application.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/api/users/controllers/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/user/repo/UserRepositoryIntegrationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/api/users/model/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/controllers/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/user/portal/controllers/UserControllerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-263">
-              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/user/portal/repo/UserQueryTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/user/portal/repo/UserRepositoryIntegrationTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/api/users/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+            <state relative-caret-position="153">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,13 +152,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/user/portal/controllers/MvcControllerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/api/config/RedisConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="47">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/api/users/model/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/api/Receiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/api/users/controllers/ExceptionHandlerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -124,6 +216,7 @@
       <find>User</find>
       <find>Long</find>
       <find>RedisTemplate&lt;Long</find>
+      <find>Origin</find>
     </findStrings>
     <replaceStrings>
       <replace>user</replace>
@@ -140,28 +233,34 @@
         <option value="$PROJECT_DIR$/src/test/java/UserQueryTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/portal/repo/UserQueryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/user/portal/Application.java" />
-        <option value="$PROJECT_DIR$/src/main/java/user/Application.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/user/portal/controllers/MvcControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/java/user/portal/model/UserCopy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/user/portal/controllers/UserController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/user/portal/config/RedisConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/user/portal/repo/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/user/portal/repo/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepositoryImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/user/portal/model/User.java" />
         <option value="$PROJECT_DIR$/src/test/java/user/portal/controllers/UserControllerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/user/portal/repo/UserQueryTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/user/portal/repo/UserRepositoryIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/portal/controllers/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/portal/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/portal/repo/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/portal/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/api/user/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/api/users/controllers/ExceptionHandlerController.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/api/Receiver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/api/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/api/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/user/repo/UserRepositoryIntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/api/users/controllers/UserController.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="145" />
-    <option name="y" value="53" />
+    <option name="y" value="23" />
     <option name="width" value="1520" />
     <option name="height" value="1027" />
   </component>
@@ -173,6 +272,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,7 +305,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="user" type="b2602c69:ProjectViewProjectNode" />
@@ -212,8 +313,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="user" type="b2602c69:ProjectViewProjectNode" />
@@ -221,62 +322,89 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="user" type="b2602c69:ProjectViewProjectNode" />
               <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="user" type="b2602c69:ProjectViewProjectNode" />
               <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="portal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="portal" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="portal" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
               <item name="repo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="user" type="b2602c69:ProjectViewProjectNode" />
               <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="user" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="repo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -516,7 +644,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UserQueryTest">
+  <component name="RunManager" selected="Spring Boot.Application">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -529,66 +657,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rlit.us.user.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="user.portal.controllers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="user.portal.controllers" />
-      <option name="MAIN_CLASS_NAME" value="user.portal.controllers.UserControllerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rlit.us.user.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="user.portal.repo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="user.portal.repo" />
-      <option name="MAIN_CLASS_NAME" value="user.portal.repo.UserQueryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UserRepositoryIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rlit.us.user.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="user.portal.repo.*" />
+          <option name="PATTERN" value="user.repo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="user.portal.repo" />
-      <option name="MAIN_CLASS_NAME" value="user.portal.repo.UserRepositoryIntegrationTest" />
+      <option name="PACKAGE_NAME" value="user.repo" />
+      <option name="MAIN_CLASS_NAME" value="user.repo.UserRepositoryIntegrationTest" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserRepositoryIntegrationTest.whenSavingUsers_thenAllShouldAvailableOnRetrieval" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rlit.us.user.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="user.portal.repo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="user.portal.repo" />
-      <option name="MAIN_CLASS_NAME" value="user.portal.repo.UserRepositoryIntegrationTest" />
-      <option name="METHOD_NAME" value="whenSavingUsers_thenAllShouldAvailableOnRetrieval" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -648,6 +727,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="rlit.us.user.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="api.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -668,10 +760,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserQueryTest" />
-        <item itemvalue="JUnit.UserRepositoryIntegrationTest.whenSavingUsers_thenAllShouldAvailableOnRetrieval" />
+        <item itemvalue="Spring Boot.Application" />
         <item itemvalue="JUnit.UserRepositoryIntegrationTest" />
-        <item itemvalue="JUnit.UserControllerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -697,22 +787,13 @@
       <workItem from="1552519291289" duration="224000" />
       <workItem from="1552519519210" duration="3581000" />
       <workItem from="1552542945869" duration="4090000" />
+      <workItem from="1553122914711" duration="360000" />
+      <workItem from="1553260620415" duration="74000" />
+      <workItem from="1553287354000" duration="8500000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserRepositoryIntegrationTest - 2019.03.14 at 05h 32m 43s.xml">
-      <configuration name="UserRepositoryIntegrationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_findAllUsers - 2019.03.14 at 05h 34m 47s.xml">
-      <configuration name="UserControllerTest.findAllUsers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserQueryTest - 2019.03.14 at 05h 42m 42s.xml">
-      <configuration name="UserQueryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserRepositoryIntegrationTest - 2019.03.14 at 05h 42m 55s.xml">
-      <configuration name="UserRepositoryIntegrationTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UserRepositoryIntegrationTest - 2019.03.14 at 05h 43m 52s.xml">
       <configuration name="UserRepositoryIntegrationTest" configurationId="JUnit" />
     </history-entry>
@@ -731,38 +812,51 @@
     <history-entry file="UserQueryTest - 2019.03.14 at 08h 39m 24s.xml">
       <configuration name="UserQueryTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UserRepositoryIntegrationTest - 2019.03.15 at 17h 28m 47s.xml">
+      <configuration name="UserRepositoryIntegrationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserRepositoryIntegrationTest - 2019.03.16 at 15h 42m 00s.xml">
+      <configuration name="UserRepositoryIntegrationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserRepositoryIntegrationTest - 2019.03.18 at 19h 39m 58s.xml">
+      <configuration name="UserRepositoryIntegrationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserRepositoryIntegrationTest - 2019.03.18 at 19h 41m 25s.xml">
+      <configuration name="UserRepositoryIntegrationTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21806000" />
+    <option name="totallyTimeSpent" value="46163000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="145" y="53" width="1520" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1520" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28755075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3037889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4993234" weight="0.32894737" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49797022" visible="true" weight="0.3015351" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4993234" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49458727" visible="true" weight="0.2752193" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993234" weight="0.3991228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32900432" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49967214" weight="0.32857144" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32894737" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3295838" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5013532" side_tool="true" weight="0.3015351" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5054127" side_tool="true" weight="0.2752193" />
       <window_info anchor="bottom" id="SonarLint" order="13" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3295838" />
-      <window_info anchor="bottom" id="Spring" order="15" weight="0.3295838" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.4996624" weight="0.32894737" />
+      <window_info anchor="bottom" id="Spring" order="15" sideWeight="0.49967214" weight="0.35714287" />
       <window_info anchor="bottom" id="Database Changes" order="16" />
       <window_info anchor="bottom" id="Version Control" order="17" weight="0.32894737" />
-      <window_info anchor="bottom" id="Application Servers" order="18" />
+      <window_info anchor="bottom" id="Application Servers" order="18" sideWeight="0.4993234" weight="0.32894737" />
       <window_info anchor="bottom" id="Reviews" order="19" />
       <window_info anchor="bottom" id="REST Client" order="20" weight="0.34083238" />
       <window_info anchor="bottom" id="Messages" order="21" weight="0.32900432" />
@@ -786,7 +880,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/user/portal/repo/UserServiceImpl.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/api/users/model/UserServiceImpl.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="2" />
@@ -799,13 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/Receiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -826,24 +913,10 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/logback-test.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -874,119 +947,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/gradle.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/repo/ExceptionHandlerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/model/UserOld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/model/UserCopy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/config/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="57" column="32" lean-forward="true" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2086#2100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/model/Trade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/repo/UserPortalApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/repo/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/repo/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="41" column="3" selection-start-line="26" selection-start-column="6" selection-end-line="41" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/repo/UserRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="e#1309#1310#0" expanded="true" />
-            <element signature="e#1359#1360#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/controllers/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/user/portal/controllers/UserControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-263">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/user/portal/repo/UserQueryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/users/model/Trade.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/user/repo/UserQueryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
@@ -996,20 +958,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/user/portal/controllers/MvcControllerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/model/UserCopy.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/user/portal/model/UserOld.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/user/controllers/UserControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="-312">
+          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/user/portal/repo/UserRepositoryIntegrationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/user/controllers/MvcControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        <state relative-caret-position="442">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/users/repo/UserPortalApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/users/repo/UserRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <element signature="e#1783#1784#0" expanded="true" />
+            <element signature="e#1880#1881#0" expanded="true" />
+            <element signature="e#1973#1974#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/users/repo/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/Receiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/users/controllers/ExceptionHandlerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/user/repo/UserRepositoryIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/users/model/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/users/model/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/users/controllers/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/users/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
