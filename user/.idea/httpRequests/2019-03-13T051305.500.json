@@ -1,8 +1,0 @@
-{
-  "timestamp": 1552515185349,
-  "status": 500,
-  "error": "Internal Server Error",
-  "exception": "org.springframework.web.HttpRequestMethodNotSupportedException",
-  "message": "Request method 'POST' not supported",
-  "path": "/users/create"
-}

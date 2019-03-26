@@ -1,13 +1,0 @@
-
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(™€¨"8œ–“Ë—-
-V
-squid:S1066"9Replace this use of System.out or System.err by a logger.(Ùëí8œ–“Ë—-
-V
-squid:S1068"9Replace this use of System.out or System.err by a logger.(Ùëí8œ–“Ë—-
-U
-squid:S106@"9Replace this use of System.out or System.err by a logger.(äáù^8œ–“Ë—-
-ksquid:S1192'"HDefine a constant instead of duplicating this literal "User107" 4 times.(´Ğ—ˆÿÿÿÿÿ8œ–“Ë—-
-Isquid:S1612@",Replace this lambda with a method reference.(äáù^8œ–“Ë—-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Úô§şÿÿÿÿ8œ–“Ë—-

@@ -1,16 +1,0 @@
-
-V
-squid:S1066"9Replace this use of System.out or System.err by a logger.(æ©×•8‚’–Ë—-
-psquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×öˆ…8‚’–Ë—-
-rsquid:S001000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ì Áüÿÿÿÿ8‚’–Ë—-
-jsquid:S00112#"FDefine and throw a dedicated exception instead of using a generic one.(³‹û¢ùÿÿÿÿ8‚’–Ë—-
-jsquid:S001120"FDefine and throw a dedicated exception instead of using a generic one.(×ì Áüÿÿÿÿ8‚’–Ë—-
-rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôã£Ãýÿÿÿÿ8‚’–Ë—-
-psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÓ´Ý8‚’–Ë—-
-rsquid:S00100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‹û¢ùÿÿÿÿ8‚’–Ë—-
-xsquid:S00116"YRename this field "UserRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…°«±8‚’–Ë—-
-©%squid:RedundantThrowsDeclarationCheck#"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(³‹û¢ùÿÿÿÿ8Š —Ë—-
-jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ôã£Ãýÿÿÿÿ8‚’–Ë—-
-©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ôã£Ãýÿÿÿÿ8Úö–Ë—-
-isquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(íÐ®§8‚’–Ë—-
-©%squid:RedundantThrowsDeclarationCheck0"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(×ì Áüÿÿÿÿ8Øê—Ë—-

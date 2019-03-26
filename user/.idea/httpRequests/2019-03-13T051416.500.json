@@ -1,8 +1,0 @@
-{
-  "timestamp": 1552515256622,
-  "status": 500,
-  "error": "Internal Server Error",
-  "exception": "org.springframework.web.method.annotation.MethodArgumentTypeMismatchException",
-  "message": "Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: \"create\"",
-  "path": "/users/create"
-}
