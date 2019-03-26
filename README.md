@@ -3,7 +3,7 @@
 SARS - Spring Angular Redis Stack 
 
 #
-user - intellij spring application with redis for user information
+user - intellij spring application with redis for user information 
 trade - intellij spring application with redis for trade information
 
 #
